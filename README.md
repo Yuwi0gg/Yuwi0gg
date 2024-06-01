@@ -77,7 +77,7 @@ Explore the code in the repository [here](https://github.com/Yuwi0gg/Wedding)
 <a href="https://linkedin.com/in/yuwantha-rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuwantha-rashmika" height="30" width="40" /></a>
 <a href="https://fb.com/yuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuwantha" height="30" width="40" /></a>
 <a href="https://instagram.com/yuwi.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuwi.gg" height="30" width="40" /></a>
-<a href="https://discord.gg/Cgw8xP4GfZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cgw8xP4GfZ" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/yuwi.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cgw8xP4GfZ" height="30" width="40" /></a>
 </p>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
