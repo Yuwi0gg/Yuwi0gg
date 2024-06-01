@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src=”https://github.com/Yuwi0gg/Yuwi0gg/assets/66821880/cce4eea2-2a07-4b82-85b3-8ab9169cc3ff" alt=”my banner”></a>
+</p>
+
 ## Hi there 👋
 
 **Yuwi0gg/Yuwi0gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,6 +67,14 @@ Experience the live digital wedding card [here](https://ryanwedsshainny.netlify.
 Code:
 Explore the code in the repository [here](https://github.com/Yuwi0gg/Wedding)
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/yuwantha-rashmika/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yuwi | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/yuwi.gg/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yuwi | Instagram" width="21px"/></a>
+<a href="https://www.facebook.com/yuwantha/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yuwi | Instagram" width="21px"/></a>
+
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## Connect with Me 🛜
 
