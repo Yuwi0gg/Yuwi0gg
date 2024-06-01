@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Yuwi0gg/Yuwi0gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on improving my Python skills by building small projects and contributing to open-source repositories.
