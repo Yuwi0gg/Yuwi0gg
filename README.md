@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on beginner-friendly open-source projects.
 - 🤔 I’m looking for help with understanding advanced Python concepts and web development best practices.
 - 💬 Ask me about anything related to getting started with coding, especially in Python.
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love solving puzzles and playing games in my free time.
 
 ## Skills 🤹‍♀️
