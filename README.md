@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src=”https://github.com/Yuwi0gg/Yuwi0gg/assets/66821880/cce4eea2-2a07-4b82-85b3-8ab9169cc3ff" alt=”my banner”></a>
-</p>
-
 ## Hi there 👋
 
 **Yuwi0gg/Yuwi0gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
